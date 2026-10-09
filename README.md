@@ -440,24 +440,4 @@ TugasWeb-P11-EcommerceAuth/
 
 ---
 
-# ✅ Status Project
-
-Project **Tugas Web P11 — E-Commerce DB + Secure Auth** telah mencakup requirement utama:
-
-* [x] Migration database
-* [x] Foreign key
-* [x] Seeder & Factory
-* [x] 50+ produk
-* [x] Eloquent relationships
-* [x] Query Scope
-* [x] Dokumentasi 5 Query Tinker
-* [x] Laravel Breeze
-* [x] Login / Register / Logout
-* [x] Multi-role
-* [x] Custom Middleware
-* [x] PostPolicy
-* [x] Route Protection
-* [x] Testing 2 Role
-* [x] Testing Incognito
-
-**Project siap dikumpulkan.**
+Dibuat oleh Muhammad Hafaz Baihaqi (4253550001)
